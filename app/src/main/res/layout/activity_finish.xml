@@ -19,7 +19,7 @@
 
 
     <TextView
-        android:id="@+id/textView6"
+        android:id="@+id/searchLeagueText"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
@@ -43,5 +43,5 @@
         android:layout_marginTop="16dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView6" />
+        app:layout_constraintTop_toBottomOf="@+id/searchLeagueText" />
 </androidx.constraintlayout.widget.ConstraintLayout>
